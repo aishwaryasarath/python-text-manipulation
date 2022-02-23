@@ -1,2 +1,2 @@
 # python-text-manipulation
-Extract the names of library books that are pending for return from the email
+Extract the titles of library books that are pending for return
